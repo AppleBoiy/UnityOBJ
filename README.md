@@ -1,4 +1,4 @@
-# iNav-polycam2unity-sample
+# polycam2unity-sample
 
 <img src="Var/Images/screenshot.png" width="100%" alt="Polycam2Unity Sample Screenshot">
 
